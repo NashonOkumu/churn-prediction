@@ -1,7 +1,8 @@
 # SyriaTel Customer Churn Prediction
 ### Author: Nashon Okumu
 
-![alt text](image.png)
+![image](https://github.com/NashonOkumu/churn-prediction/assets/66790358/0840e334-da77-45ba-a28f-a07595e8fb66)
+
 
 ## 1. Business Understanding
 
@@ -78,66 +79,77 @@ Before Proceeding to the Analysis, there is need to first handle the missing val
 
 This section explores and uncovers the patterns in the dataset, and how the variables are related.
 
-![alt text](image-1.png)
+![image](https://github.com/NashonOkumu/churn-prediction/assets/66790358/6c3358e4-52dc-4d8f-9b6e-17d6f902249b)
 
-![alt text](image-2.png)
+
+![image](https://github.com/NashonOkumu/churn-prediction/assets/66790358/b1dd25bb-f75e-4e05-8188-8ec10043ea83)
+
 
 #### Distribution of Numerical Features
-![alt text](image-3.png)
+
+![image](https://github.com/NashonOkumu/churn-prediction/assets/66790358/44edf66e-0352-4bc4-be64-33116f130750)
+
 
 #### Distribution of Categorical Features
-![alt text](image-4.png)
 
-![alt text](image-5.png)
+![image](https://github.com/NashonOkumu/churn-prediction/assets/66790358/29f55808-a9cd-4115-8b4f-2da0305353ff)
 
-![alt text](image-6.png)
+![image](https://github.com/NashonOkumu/churn-prediction/assets/66790358/febd2151-bfe9-4389-8e7e-23cb9a71c2e2)
 
-![alt text](image-7.png)
+![image](https://github.com/NashonOkumu/churn-prediction/assets/66790358/3400e172-4a53-4c57-a5a6-a57d9fe40c9c)
 
-![alt text](image-8.png)
+![image](https://github.com/NashonOkumu/churn-prediction/assets/66790358/6b304fd8-4b65-43dc-a324-6fe4faad0c1f)
 
-![alt text](image-9.png)
+![image](https://github.com/NashonOkumu/churn-prediction/assets/66790358/62a8999a-f78b-4570-9215-893551025b43)
 
-![alt text](image-10.png)
+![image](https://github.com/NashonOkumu/churn-prediction/assets/66790358/5e67ac2f-004b-4aea-8d0a-60885dff015c)
 
-![alt text](image-11.png)
+![image](https://github.com/NashonOkumu/churn-prediction/assets/66790358/68962d0a-c592-4166-98e1-97f2f3bafede)
 
-![alt text](image-12.png)
+![image](https://github.com/NashonOkumu/churn-prediction/assets/66790358/c664d1ec-0999-4a77-9340-f4d50e37c8c0)
 
-![alt text](image-13.png)
+![image](https://github.com/NashonOkumu/churn-prediction/assets/66790358/274be5a6-6af7-46b0-8a22-4727e881d7ce)
 
-![alt text](image-14.png)
+![image](https://github.com/NashonOkumu/churn-prediction/assets/66790358/132b293f-fc07-4bbe-9560-83087aa9fbef)
+
+![image](https://github.com/NashonOkumu/churn-prediction/assets/66790358/8531b396-c39f-417b-b7d1-fa265e41423b)
 
 ### Correlation Analysis
 
-![alt text](image-15.png)
+![image](https://github.com/NashonOkumu/churn-prediction/assets/66790358/15ea930a-9ca1-403a-80f2-710ced30a630)
+
 
 ## 4. Modeling
 
 ### Logistic Regression 
-![alt text](image-16.png)
+
+![image](https://github.com/NashonOkumu/churn-prediction/assets/66790358/4ee49d75-bd7c-4e39-8c5b-fe4e93105da4)
+
 
 ### Decision Tree
-![alt text](image-17.png)
+
+![image](https://github.com/NashonOkumu/churn-prediction/assets/66790358/b7145672-db69-436d-b3bc-650fe84496da)
 
 ### Random Forest
-![alt text](image-18.png)
+
+![image](https://github.com/NashonOkumu/churn-prediction/assets/66790358/3424323f-5c6a-4353-a97c-a82eb8e2d1dd)
+
 
 ### XG Boost
-![alt text](image-19.png)
+
+![image](https://github.com/NashonOkumu/churn-prediction/assets/66790358/7d420ee6-17d5-445f-8816-87beffccf6ce)
+
 
 ## 5. Model Evaluation
 
-### Recall Scores
-![alt text](image-20.png)
+## Feature Importances
+
+![image](https://github.com/NashonOkumu/churn-prediction/assets/66790358/6e325ff1-625b-4ffb-9f7e-7ff6aeb39b1b)
+
 
 ### ROC Curves
 
-![alt text](image-21.png)
-
-## Feature Importances
-
-![alt text](image-22.png)
+![image](https://github.com/NashonOkumu/churn-prediction/assets/66790358/8bf0a870-259e-4fdc-85b1-a30ea9328896)
 
 ## 6. Conclusion
 
