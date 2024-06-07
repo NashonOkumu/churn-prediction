@@ -1,6 +1,10 @@
 # SyriaTel Customer Churn Prediction
 ### Author: Nashon Okumu
 
+## Overview
+
+Welcome to the GitHub repository for the SyriaTel Customer Churn Prediction project. This repository contains all the code, data, and documentation for developing a predictive model to address the high customer churn rate faced by SyriaTel. The project aims to identify customers at risk of churning, understand the underlying factors driving this behavior, and provide actionable insights to improve customer retention. Using a comprehensive dataset sourced from Kaggle, the repository includes steps for data preparation, model development, evaluation, and recommendations. The ultimate goal is to build a robust model with high accuracy and recall to help SyriaTel reduce churn and enhance profitability. Explore the repository to find detailed explanations, notebook, presentations and results that guide the entire process from data exploration to deploying the predictive model.
+
 ![image](https://github.com/NashonOkumu/churn-prediction/assets/66790358/0840e334-da77-45ba-a28f-a07595e8fb66)
 
 
